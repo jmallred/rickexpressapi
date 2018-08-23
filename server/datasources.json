@@ -1,12 +1,12 @@
 {
   "db": {
-    "host": "jamesmallred.com",
+    "host": "...",
     "port": 27017,
     "url": "",
-    "database": "rickexpress",
-    "password": "Greenville2018!",
+    "database": "...",
+    "password": "...",
     "name": "db",
-    "user": "admin",
+    "user": "...",
     "connector": "mongodb"
   }
 }
